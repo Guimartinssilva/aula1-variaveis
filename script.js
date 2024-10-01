@@ -23,9 +23,16 @@ console.log("alert");
 // console.log("Meu nome é " + primeiroNome, sobrenome + " e tenho" + idade1 + " anos." + primeiroNome + " é estudante? " + souEstudante );    
 
 //Exercício exemplo 2
-let nome1 = prompt("Qual é o seu nome?")
-let idade2 = prompt("Qual é a sua idade?")
+// let nome1 = prompt("Qual é o seu nome?")
+// let idade2 = prompt("Qual é a sua idade?")
 
-console.log("Meu nome é " + nome1 + ", tenho " + idade2 + " anos.");
-console.log("variavel nome " + nome1 + ", seu tipo é", typeof nome1);
-console.log("variavel nome " + idade2 + ", seu tipo é", typeof +idade2);
+// console.log("Meu nome é " + nome1 + ", tenho " + idade2 + " anos.");
+// console.log("variavel nome " + nome1 + ", seu tipo é", typeof nome1);
+// console.log("variavel nome " + idade2 + ", seu tipo é", typeof +idade2);
+
+const valor1 = 230
+const valor2 = 201
+
+const resultado = valor1 * valor2 
+
+console.log(resultado)
